@@ -1,4 +1,3 @@
-# AGMuD
 ## Arbeitsgruppe Medien und Distribution
 
 Die AGMuD ist eine Arbeitsgruppe der Länderkonferenz Medienbildung. Sie setzt sich aus den zuständigen Mitarbeiterinnen und Mitarbeiter der Landesmedienzentren sowie je einem beisitzenden Vertreter des Medieninstituts der Länder (FWU) und des Bundesarbeitskreises Medien (BAK) zusammen. Die wesentlichen Aufgaben der Arbeitsgruppe sind:
