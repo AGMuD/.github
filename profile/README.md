@@ -10,5 +10,6 @@ Die AGMuD ist eine Arbeitsgruppe der Länderkonferenz Medienbildung. Sie setzt s
 - Entwicklung von Kriterien für Begleitmaterialien und deren Einarbeitung in die Datenbank Bildungsmedien.
 - Mitwirkung bei der Entwicklung von Lizenzmodellen und Fragen der Medienkonfektionierung.
 
-### Zur Notwendigkeit der Dokumentation von Mediendaten
+## Zur Notwendigkeit der Dokumentation von Mediendaten
+
 Die kommunalen und staatlichen Medienzentren in Deutschland verfügen über umfangreiche, inhaltlich sehr breit angelegte Verleiharchive audiovisueller Medien für den Unterricht und die außerschulische Bildungsarbeit. In jüngster Zeit kommen weitere Distributionswege wie der Erwerb von Kreis- und Landeslizenzen sowie die Online-Distribution hinzu. Bei mehreren tausend Titeln im Angebot sind aussagekräftige, kundenorientierte Informationen eine unabdingbare Notwendigkeit. Das Erschließen und Bereitstellen der entsprechenden Daten ist eine aufwändige und komplexe Tätigkeit, die in jedem Medienzentrum geleistet werden muss. Da die Bestände der Medienzentren zu 50% bis 70% identisch sind, bietet es sich an, einheitliche Datenstrukturen zu schaffen und die Medien arbeitsteilig zu erschließen.
