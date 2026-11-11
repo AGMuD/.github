@@ -14,4 +14,4 @@ Die AGMuD ist eine Arbeitsgruppe der Länderkonferenz Medienbildung. Sie setzt s
 
 Die kommunalen und staatlichen Medienzentren in Deutschland verfügen über umfangreiche, inhaltlich sehr breit angelegte Verleiharchive audiovisueller Medien für den Unterricht und die außerschulische Bildungsarbeit. In jüngster Zeit kommen weitere Distributionswege wie der Erwerb von Kreis- und Landeslizenzen sowie die Online-Distribution hinzu. Bei mehreren tausend Titeln im Angebot sind aussagekräftige, kundenorientierte Informationen eine unabdingbare Notwendigkeit. Das Erschließen und Bereitstellen der entsprechenden Daten ist eine aufwändige und komplexe Tätigkeit, die in jedem Medienzentrum geleistet werden muss. Da die Bestände der Medienzentren zu 50% bis 70% identisch sind, bietet es sich an, einheitliche Datenstrukturen zu schaffen und die Medien arbeitsteilig zu erschließen.
 
-Nähere Infos auf der Webseite der AGMuD: (agmud.de)[https://agmud.de]
+Nähere Infos auf der Webseite der AGMuD: [agmud.de](https://agmud.de)
